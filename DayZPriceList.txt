@@ -1,0 +1,244 @@
+Services
+-------------------------------------------------
+Lumber Pile	PileOfWoodenPlanks	5000	
+Cow	Animal_BosTaurusF_Brown	4000	200			
+Builder NPC	SurvivorF_Gabi	999999	10			
+Sheep	Animal_OvisAries	1500	200		
+Pig	Animal_SusDomesticus	3000	200
+
+
+Vehichles
+-------------------------------------------------
+Black Gunter	Hatchback_02_Black	4500			
+Wine Olga	CivilianSedan_Wine	5000			
+Red Sarka	Sedan_02_Red	        5000			
+Red Gunter	Hatchback_02	        4500		
+Yellow Sarka	Sedan_02	        5000			
+Blue Gunter	Hatchback_02_Blue	5000			
+Blue ADA	OffroadHatchback_Blue	6000			
+Green M3S	Truck_01_Covered	10000			
+Orange M3S	Truck_01_Covered_Orange	10000			
+Blue M3S	Truck_01_Covered_Blue	10000			
+Grey Sarka	Sedan_02_Grey	        5000		
+Black Olaga	CivilianSedan_Black	5000			
+White ADA	OffroadHatchback_White	6000			
+Green ADA	OffroadHatchback	6000			
+White Olga	CivilianSedan	        5000
+
+
+
+Parts
+-------------------------------------------------
+Gunter Wheel	Hatchback_02_Wheel	350		
+Olga Wheel	CivSedanWheel	        350			
+Truck Battery	TruckBattery	        1000			
+M3S Wheel	Truck_01_Wheel	        500			
+Spark Plug	SparkPlug	        700			
+Radiator	CarRadiator	        900			
+Car Battery	CarBattery	        600			
+ADA Wheel	HatchbackWheel	        350			
+Jerrycan	CanisterGasoline	900		
+Sarka Wheel	Sedan_02_Wheel	        350		
+Headlight Bulb	HeadlightH7	        400
+
+
+
+
+Weapons
+-------------------------------------------------
+KA-74	AK74	                        550		
+KA-M	AKM	                        1100		
+FX-45	FNX45	                        400	
+Engraved Kolt 1911	                650		
+Mosin 91/30	Mosin9130	        800		
+Gold Deagle	Deagle_Gold	        1000		
+AUR AX	Aug	                        1000		
+KAS-74U	AKS74U,AKS74U_Bttstck,	        500	
+Kolt 1911	Colt1911	        400		
+IJ-70	MakarovIJ70	                300		
+MK II	MKII	                        300		
+M70 Tundra	Winchester70	        600		
+Pioneer	Scout	                        1100		
+CR-75	CZ75	                        900		
+M16-A2	M16A2	                        1200		
+Bizon	PP19,PP19_Bttstck,	        900	
+VSS	VSS	                        800		
+LAR	FAL,Fal_OeBttstck,	        1200	
+USG-45	UMP45	                        550		
+Vaiga	Saiga,Saiga_Bttstck	        1200		
+Blaze	B95	                        550		
+SK 59/66	SKS	                900		
+CR-61 Skorpion	CZ61	                550		
+M4-A1	M4A1	                        1400		
+Deagle	Deagle	                        800		
+KA-101	AK101	                        600		
+CR-527	CZ527	                        450		
+LE-MAS	FAMAS	                        800		
+SVAL	ASVAL	                        900	
+BK-133	Mp133Shotgun	                600	
+Revolver	Magnum	                500	
+Mlock-91 Glock19	                450		
+VSD	SVD	                        1100		
+BK-43	Izh43Shotgun	                400		
+AUR A1	AugShort	                900		
+Signal Pistol	Flaregun	        200		
+SG5-K	MP5K	                        450
+
+
+
+Magazines
+-------------------------------------------------
+15rd FX-45 Mag	Mag_FNX45_15Rnd	                400		
+8rd Vaiga Mag	Mag_Saiga_8Rnd	                600		
+7rd Kolt 1911 Mag	Mag_1911_7Rnd	        400	
+5rd Pioneer Mag	Mag_Scout_5Rnd	                500		
+20rd SVAL Mag	Mag_VAL_20Rnd	                500		
+10rd MK II Mag	Mag_MKII_10Rnd	                300		
+20rd LAR Mag	Mag_FAL_20Rnd	                600		
+12rd IJ-70 Mag	Mag_IJ70_8Rnd	                300		
+30rd AUR Mag	Mag_Aug_30Rnd	                400	
+30rd KA-101 Mag	Mag_AK101_30Rnd	                300		
+5rd CR-527 Mag	Mag_CZ527_5rnd	                400		
+5rd Vaiga Mag	Mag_Saiga_5Rnd	                400		
+25rd LE-MAS Mag	Mag_FAMAS_25Rnd	                400		
+75rd KA-M Drum Mag	Mag_AKM_Drum75Rnd	800		
+30rd KA-M Mag	Mag_AKM_30Rnd	                500		
+20rd Drum Vaiga Mag	Mag_Saiga_Drum20Rnd	700		
+25rd USG-45 Mag	Mag_UMP_25Rnd	                300	
+10rd VSD Mag	Mag_SVD_10Rnd	                700		
+9rd Deagle Mag	Mag_Deagle_9rnd	                400		
+45rd KA-74 Mag	Mag_AK74_45Rnd	                400		
+15rd CR-75 Mag	Mag_CZ75_15Rnd	                400		
+20rd CR-61 Mag	Mag_CZ61_20Rnd	                400	
+30rd KA-74 Mag	Mag_AK74_30Rnd	                300		
+64rd Bizon Mag	Mag_PP19_64Rnd	                500	
+30rd Standardized Mag	Mag_STANAG_30Rnd	300		
+60rd Standardized Mag	Mag_STANAG_60Rnd	600		
+15rd Mlock-91 Mag	Mag_Glock_15Rnd	        300			
+10rd VSS Mag	Mag_VSS_10Rnd	                500		
+30rd SG5-K Mag	Mag_MP5_30Rnd	                400
+
+
+
+
+Ammo(Boxes)
+--------------------------------------------------------		
+12ga Rifled Slugs	AmmoBox_12gaSlug_10Rnd	150	
+7.62x39mm Rounds	AmmoBox_762x39_20Rnd	300		
+Red Flare	Ammo_FlareRed	                400		
+.308 WIN Rounds	AmmoBox_308Win_20Rnd	        300	
+9x19mm Rounds	AmmoBox_9x19_25rnd	        200	
+.357 Rounds	AmmoBox_357_20Rnd	        300	
+Green Flare	Ammo_FlareGreen	                400			
+Yellow Flare	Ammo_Flare	                400			
+.45 ACP Rounds	AmmoBox_45ACP_25rnd	        250	
+9x39mm Rounds	AmmoBox_9x39_20Rnd	        300		
+7.62x54mmR Rounds	AmmoBox_762x54_20Rnd	300		
+12ga Rubber Slugs		                100	
+Blue Flare	Ammo_FlareBlue	                300		
+9x39mm AP Rounds		                300		
+.380 ACP Rounds	AmmoBox_380_35rnd	        300			
+.22 LR Rounds	AmmoBox_22_50Rnd	        300			
+12ga 00 Buckshots	AmmoBox_00buck_10rnd	200		
+5.45x39mm Rounds	AmmoBox_545x39_20Rnd	300		
+5.56x45mm Rounds	AmmoBox_556x45_20Rnd	300
+
+
+
+Equipment
+--------------------------------------------------------	
+Tactical Belt	MilitaryBelt	                150	
+Night Vision	NVGHeadstrap,NVGoggles,	        250		
+Ghillie Hood Mossy	GhillieHood_Mossy	250	
+Ghillie Hood Woodland	GhillieHood_Woodland	250	
+Assault Vest	SmershVest,SmershBag,	        350			
+Plate Carrier	PlateCarrierVest	        400		
+Ghillie Suit Wooland	GhillieSuit_Woodland	500	
+Tactical Helmet	Mich2001Helmet	                200		
+Ballistic Helmet	BallisticHelmet_Green	250		
+Gas Mask Filter	GasMask_Filter	                150		
+NBC Suit		                        300		
+Ghillie Suit	                                350		
+NBC Mask	AirborneMask                    350
+
+
+
+
+Medical
+--------------------------------------------------------
+PO-X Antidote	AntiChemInjector	        350		
+Heat Pack	Heatpack	                300		
+Alcoholic Tincture	DisinfectantAlcohol	250		
+Iodine Tincture	IodineTincture	                250		
+Chlorine Tablets	PurificationTablets	250		
+Charcoal Tablets	CharcoalTablets	        150		
+Morphine	Morphine	                250			
+Multivitamin Pills		                250	
+Tetracycline Pills		                250		
+Bandage	BandageDressing	                        100		
+Epinephrine	Epinephrine	                200		
+IV Saline Bag	SalineBagIV	                300		
+Codeine Pills	PainkillerTablets	        200
+
+
+
+
+Tools
+------------------------------------------------------
+Lock Pick	Lockpick	                500	 	
+Crowbar	Crowbar	                                150	 	
+9V Battery	Battery9V	                200	 	
+Tire Repair Kit	TireRepairKit	                250	 	
+Wrench	Wrench	                                350	 
+Pliers	Pliers	                                350	 
+Epoxy Putty	EpoxyPutty	                250	 	
+Pickaxe	Pickaxe	                                450	 	
+Sharpening Stone	Whetstone	        250	 	
+Sewing Kit	SewingKit	                500	 	
+Hunting Knife	HuntingKnife	                200	 	
+Pipe Wrench	PipeWrench	                250	 	
+Hammer	Hammer	                                300	 	
+Gun Cleaning Kit	WeaponCleaningKit	300	 	
+Sledgehammer	SledgeHammer	                300	 	
+Hatchet	Hatchet	                                200	 	
+Electrical Repair Kit	ElectronicRepairKit	250	  
+Screwdriver	Screwdriver	                150	 	
+Hacksaw	Hacksaw	                                350	 	
+Rope	Rope	                                150	 	
+Leather Sewing Kit	LeatherSewingKit	300	  
+Tire Iron	LugWrench	                200	 	
+Duct Tape	DuctTape	                150	 	
+Shovel	Shovel	                                400
+
+
+
+
+Base Building
+-------------------------------------------------------
+Car Tent	CarTent	                        4000	 
+Barbed Wire	BarbedWire	                250		
+Nails	NailBox	                                250	 	
+Oil Barrel	Barrel_Green	                1000	 	
+Medium Tent	MediumTent	                900	 	
+Camo Net	Camonet	                        400	 	
+Sea Chest	SeaChest	                2000	 	
+Large Tent	LargeTent	                3000	  	
+Metal Wire	MetalWire	                250	 	
+Combination Lock		                400	 	
+Sheet Metal	MetalPlate	                1000	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
